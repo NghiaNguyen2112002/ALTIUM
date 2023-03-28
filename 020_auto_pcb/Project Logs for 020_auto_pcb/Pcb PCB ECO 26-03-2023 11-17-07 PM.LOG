@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=+5 Pin=AC_DC-4
+Removed Pin From Net: NetName=+5 Pin=C1-1
+Removed Pin From Net: NetName=NetC3_2 Pin=C3-2
+Removed Pin From Net: NetName=+5 Pin=D1-1
+Removed Pin From Net: NetName=RA5 Pin=R2-2
+Removed Pin From Net: NetName=NetAC(N)_M_1 Pin=R8-1
+Removed Pin From Net: NetName=+5 Pin=RL-5
+Change Component Footprint: Designator=C2 Old Footprint=C 0805 (2012) New Footprint=C SMD ALU (D8)
+Change Component Footprint: Designator=D1 Old Footprint=DO-214AC (SMA) New Footprint=SOD-80
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R4 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R5 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R6 Old Comment=1k New Comment=10k
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=470
+Change Component Comment : Designator=R7 Old Comment=10k New Comment=47k
+Change Component Comment : Designator=C2 Old Comment=104 New Comment=16V/220uF
+Change Component Comment : Designator=C1 Old Comment=220uF New Comment=25v/220uF
+Change Component Designator: OldDesignator=AC_N_M NewDesignator=AC(N)_M
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=SW4 NewDesignator=Start
+Added Component: Designator=R7(R 0805 (2012))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TO-252 (DPAK))
+Added Component: Designator=U3(SOIC-4-GULLWING)
+Added Pin To Net: NetName=+5 Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=RA5 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetMOTOR_1
+Added Pin To Net: NetName=+12 Pin=AC_DC-4
+Added Pin To Net: NetName=+12 Pin=C1-1
+Added Pin To Net: NetName=+12 Pin=D1-1
+Added Pin To Net: NetName=+12 Pin=RL-5
+Added Pin To Net: NetName=+12 Pin=U2-1
+Added Pin To Net: NetName=+12 Pin=U3-4
+Added Net: Name=+12
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U3-3
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U3-1
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=Schematic Member=Component LCD LCD 16x2
+Added Member To Class: ClassName=Schematic Member=Component U2 L7xxx
+Added Member To Class: ClassName=Schematic Member=Component U3 PC817B
+Added Room: Name=Schematic

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=+5 Pin=C1-2
+Change Component Footprint: Designator=C1 Old Footprint=FP-FPG-MFG New Footprint=C SMD ALU (D8)
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CBE8283E-DC85-41BA-8936-2A449E112B0A New ItemGUID= Old RevisionGUID=97012423-063C-497D-A021-D2B510A51E21 New RevisionGUID=
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-FPG-MFG"; UniqueID = "\NZMPBEMG" ("\NZMPBEMG")
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Member To Class: ClassName=Schematic Member=Component C? C

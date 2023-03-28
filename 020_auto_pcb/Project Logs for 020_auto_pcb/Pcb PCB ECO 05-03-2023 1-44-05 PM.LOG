@@ -1,0 +1,14 @@
+Added Component: Designator=AC_DC(CONV_HLK-PM01)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/hlk-pm01/Hi-link/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "hlk-pm01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/hlk-pm01/Hi-link/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetAC(L)_1 Pin=AC_DC-1
+Added Pin To Net: NetName=NetAC(N)_1 Pin=AC_DC-2
+Added Pin To Net: NetName=GND Pin=AC_DC-3
+Added Pin To Net: NetName=+5 Pin=AC_DC-4
+Added Member To Class: ClassName=Schematic Member=Component AC_DC HLK-PM01

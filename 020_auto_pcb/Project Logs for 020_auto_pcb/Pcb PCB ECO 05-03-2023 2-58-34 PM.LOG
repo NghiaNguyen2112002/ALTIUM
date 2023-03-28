@@ -1,0 +1,5 @@
+Change Component Comment : Designator=C1 Old Comment=470uF New Comment=220uF
+Added Component: Designator=C?(C SMD ALU (D8))
+Added Component: Designator=C?(C SMD TAN 1206 (A))
+Added Member To Class: ClassName=Schematic Member=Component C? C
+Added Member To Class: ClassName=Schematic Member=Component C? C
