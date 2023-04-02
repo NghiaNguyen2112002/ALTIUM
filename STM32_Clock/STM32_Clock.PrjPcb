@@ -143,23 +143,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LRCRTLCB
 
 [Document7]
-DocumentPath=F:\Altium Library\chipfc_altium_libs-master.zip
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\ESP8266\ESP8266.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\ESP8266\ESP8266.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUGNHDJF
 
-[Document10]
+[Document9]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\ESP8266\esp8266_series_modules_user_manual_en.pdf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\mcu_stm32f1\mcu_stm32f1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +210,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\mcu_stm32f1\mcu_stm32f1.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -244,7 +227,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMYNLDNX
 
-[Document13]
+[Document12]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\model\model.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +244,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document13]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\model\model.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +261,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAUGQQYE
 
-[Document15]
+[Document14]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\module\module.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,7 +278,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document15]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\module\module.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -312,7 +295,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YVFUJYAK
 
-[Document17]
+[Document16]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\chipfc_libs\chipfc_libs.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -329,7 +312,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document17]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\chipfc_libs\chipfc_libs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -346,7 +329,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XNOVVIII
 
-[Document19]
+[Document18]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\chipfc_libs\microbit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -363,7 +346,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document19]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\mcu_avr\mcu_avr.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -380,7 +363,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document20]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\mcu_avr\mcu_avr.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -397,7 +380,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OXUKMCOL
 
-[Document22]
+[Document21]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\connectors\connectors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -414,7 +397,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\connectors\connectors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -431,7 +414,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVINYBIM
 
-[Document24]
+[Document23]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\bs_libs\bs_libs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -448,7 +431,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document24]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\bs_libs\bs_libs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -465,7 +448,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTMEKBOV
 
-[Document26]
+[Document25]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\mcu_pic\mcu_pic.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -482,7 +465,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=F:\Altium Library\chipfc_altium_libs-master\mcu_pic\mcu_pic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -499,7 +482,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPYRRHGN
 
-[Document28]
+[Document27]
 DocumentPath=F:\Altium Library\Bkit4U\BKIT4U_LIB_NEW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -516,7 +499,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=F:\Altium Library\Bkit4U\BKIT4U_LIB_NEW.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -533,7 +516,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVEABNVB
 
-[Document30]
+[Document29]
 DocumentPath=F:\Altium Library\altium-library-master\Custom Library.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -550,7 +533,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=F:\Altium Library\altium-library-master\Custom Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -567,7 +550,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXPQIBPM
 
-[Document32]
+[Document31]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -584,7 +567,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVMBPLCH
 
-[Document33]
+[Document32]
 DocumentPath=STM32_Clock.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -600,6 +583,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STM32_Clock\Move Component(s) Origin To Grid - PCB1.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
