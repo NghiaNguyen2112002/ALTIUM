@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Node.PcbDoc   13/04/2023  10:07:17 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Node-RoundHoles.TXT
+ASCII SlotHoles File : Node-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      35mil (0.899mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T2      39mil (0.991mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T3      39mil (1.001mm)                                           Round             31        PTH        0.00inch (0.00mm)
+T4      39mil (1.001mm)                                           Slot              3         PTH        0.00inch (0.00mm)
+T5      59mil (1.501mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T6      60mil (1.524mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T7      118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T8      126mil (3.2mm)                                            Round             3         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              66
+
+Total Processing Time (hh:mm:ss) : 00:00:00

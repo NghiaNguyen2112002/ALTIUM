@@ -1,0 +1,21 @@
+Added Pin To Net: NetName=D8 Pin=NodeMCU-1-D8
+Added Member To Class: ClassName=Smart_Home Member=Component D1 Diode
+Added Member To Class: ClassName=Smart_Home Member=Component D2 Diode
+Added Member To Class: ClassName=Smart_Home Member=Component LED 1 Led
+Added Member To Class: ClassName=Smart_Home Member=Component LED 2 Led
+Added Member To Class: ClassName=Smart_Home Member=Component LoLin-1 NodeMCU V3
+Added Member To Class: ClassName=Smart_Home Member=Component P1 Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component P2 Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component P_ADC Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component P_DHT Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component Q1 Transistor NPN
+Added Member To Class: ClassName=Smart_Home Member=Component Q2 Transistor NPN
+Added Member To Class: ClassName=Smart_Home Member=Component R2 R
+Added Member To Class: ClassName=Smart_Home Member=Component R3 R
+Added Member To Class: ClassName=Smart_Home Member=Component R4 R
+Added Member To Class: ClassName=Smart_Home Member=Component R5 R
+Added Member To Class: ClassName=Smart_Home Member=Component R6 R
+Added Member To Class: ClassName=Smart_Home Member=Component RL1 Relay 10A/12V
+Added Member To Class: ClassName=Smart_Home Member=Component RL2 Relay 10A/12V
+Added Member To Class: ClassName=Smart_Home Member=Component R
+Added Room: Name=Smart_Home

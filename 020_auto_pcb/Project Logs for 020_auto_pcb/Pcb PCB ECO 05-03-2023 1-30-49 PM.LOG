@@ -1,0 +1,186 @@
+Removed Pin From Net: NetName=GND Pin=SW?-2
+Change Component Footprint: Designator=C? Old Footprint=C 0805 (2012) New Footprint=C 1206 (3216)
+Change Component Footprint: Designator=C? Old Footprint=C 0805 (2012) New Footprint=C 1206 (3216)
+Change Component Footprint: Designator=C? Old Footprint=C 0805 (2012) New Footprint=C 1206 (3216)
+Change Component Footprint: Designator=C? Old Footprint=C 0805 (2012) New Footprint=C 1206 (3216)
+Change Component Footprint: Designator=C? Old Footprint=C 0805 (2012) New Footprint=C 1206 (3216)
+Change Component Footprint: Designator=C? Old Footprint=C 0805 (2012) New Footprint=C P10.0
+Change Component Footprint: Designator=D? Old Footprint=DO-214AB (SMC) New Footprint=DO-214AC (SMA)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Footprint: Designator=R? Old Footprint=R 0805 (2012) New Footprint=R 1206 (3216)
+Change Component Comment : Designator=R? Old Comment=R New Comment=1k
+Change Component Comment : Designator=R? Old Comment=R New Comment=1k
+Change Component Comment : Designator=R? Old Comment=R New Comment=1k
+Change Component Comment : Designator=R? Old Comment=R New Comment=1k
+Change Component Comment : Designator=R? Old Comment=R New Comment=1k
+Change Component Comment : Designator=R? Old Comment=R New Comment=470
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=LCD? NewDesignator=LCD
+Change Component Designator: OldDesignator=PS? NewDesignator=AC-DC
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=RT
+Change Component Designator: OldDesignator=RL? NewDesignator=RL
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW2
+Change Component Designator: OldDesignator=SW? NewDesignator=SW3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=AC(L)(TECO-63824-1_V)
+Add component (AddParameter): Name = "Colour"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F63824%7FR%7Fpdf%7FEnglish%7FENG_CD_63824_R_baseFilename.pdf%7F63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. R, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "13.63 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 7.92 x 3.08 mm, Pitch 5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=AC(N)_M(TECO-63824-1_V)
+Add component (AddParameter): Name = "Colour"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F63824%7FR%7Fpdf%7FEnglish%7FENG_CD_63824_R_baseFilename.pdf%7F63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. R, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "13.63 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 7.92 x 3.08 mm, Pitch 5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=AC(N)(TECO-63824-1_V)
+Add component (AddParameter): Name = "Colour"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F63824%7FR%7Fpdf%7FEnglish%7FENG_CD_63824_R_baseFilename.pdf%7F63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. R, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "13.63 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 7.92 x 3.08 mm, Pitch 5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR(TECO-63824-1_V)
+Add component (AddParameter): Name = "Colour"; Value = "Silver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.te.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F63824%7FR%7Fpdf%7FEnglish%7FENG_CD_63824_R_baseFilename.pdf%7F63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. R, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "13.63 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 7.92 x 3.08 mm, Pitch 5.08 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "63824-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=Start(XH2.54-2P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RA3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=RA3 Pin=Start-1
+Added Pin To Net: NetName=GND Pin=Start-2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetLCD?_3 New Net Name=NetLCD_3
+Change Net Name : Old Net Name=NetLCD?_15 New Net Name=NetLCD_15
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Added Pin To Net: NetName=NetAC(L)_1 Pin=AC(L)-1
+Added Pin To Net: NetName=NetAC(L)_1 Pin=AC(L)-2
+Added Pin To Net: NetName=NetAC(L)_1 Pin=AC-DC-1
+Added Net: Name=NetAC(L)_1
+Added Pin To Net: NetName=NetAC(N)_1 Pin=AC(N)-1
+Added Pin To Net: NetName=NetAC(N)_1 Pin=AC(N)-2
+Added Pin To Net: NetName=NetAC(N)_1 Pin=AC-DC-2
+Added Net: Name=NetAC(N)_1
+Added Pin To Net: NetName=NetAC(N)_M_1 Pin=AC(N)_M-1
+Added Pin To Net: NetName=NetAC(N)_M_1 Pin=AC(N)_M-2
+Added Pin To Net: NetName=NetAC(N)_M_1 Pin=R?-1
+Added Pin To Net: NetName=NetAC(N)_M_1 Pin=RL-1
+Added Net: Name=NetAC(N)_M_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=R?-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=MOTOR-1
+Added Pin To Net: NetName=NetC3_2 Pin=MOTOR-2
+Added Pin To Net: NetName=NetC3_2 Pin=RL-3
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=SW1-4
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=SW1-3
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=SW2-4
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=SW3-4
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=SW3-3
+Added Net: Name=NetC6_2
+Added Member To Class: ClassName=Schematic Member=Component AC(L) 63824-1
+Added Member To Class: ClassName=Schematic Member=Component AC(N)_M 63824-1
+Added Member To Class: ClassName=Schematic Member=Component AC(N) 63824-1
+Added Member To Class: ClassName=Schematic Member=Component C1 470uF
+Added Member To Class: ClassName=Schematic Member=Component C2 104
+Added Member To Class: ClassName=Schematic Member=Component C3 100nF
+Added Member To Class: ClassName=Schematic Member=Component C4 104
+Added Member To Class: ClassName=Schematic Member=Component C5 104
+Added Member To Class: ClassName=Schematic Member=Component C7 104
+Added Member To Class: ClassName=Schematic Member=Component MOTOR 63824-1
+Added Member To Class: ClassName=Schematic Member=Component R2 1k
+Added Member To Class: ClassName=Schematic Member=Component R3 1k
+Added Member To Class: ClassName=Schematic Member=Component R4 1k
+Added Member To Class: ClassName=Schematic Member=Component R5 1k
+Added Member To Class: ClassName=Schematic Member=Component R6 1k
+Added Member To Class: ClassName=Schematic Member=Component R7 10k
+Added Member To Class: ClassName=Schematic Member=Component R? R
+Added Member To Class: ClassName=Schematic Member=Component RT TC33X-2-103E
+Added Member To Class: ClassName=Schematic Member=Component Start Header 2
+Added Member To Class: ClassName=Schematic Member=Component SW2 Tact Switch
+Added Member To Class: ClassName=Schematic Member=Component SW3 Tact Switch

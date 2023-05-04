@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Smart_Home.PrjPcb]
+   Generated File[Gateway.TXT]
+   Generated File[Gateway.LDP]
+   Generated File[Gateway.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:47:46 AM On 20/03/2023

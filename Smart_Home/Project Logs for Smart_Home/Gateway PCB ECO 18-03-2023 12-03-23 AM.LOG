@@ -1,0 +1,151 @@
+Removed Pin From Net: NetName=D3 Pin=LCD-1
+Removed Pin From Net: NetName=D4 Pin=LCD-2
+Added Component: Designator=D1(DO-214AC (SMA))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-214AC (SMA))
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LED 1(LED 5MM)
+Added Component: Designator=LED 2(LED 5MM)
+Added Component: Designator=LoLin-1(LoLin NodeMcu V3)
+Added Component: Designator=P1(SH152-5.08-3P)
+Added Component: Designator=P2(SH152-5.08-3P)
+Added Component: Designator=P_ADC(XH2.54-3P)
+Added Component: Designator=P_DHT(XH2.54-3P)
+Added Component: Designator=Q1(SOT-23)
+Added Component: Designator=Q2(SOT-23)
+Added Component: Designator=R3(R 1206 (3216))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R 1206 (3216))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R 1206 (3216))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R 1206 (3216))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R7(R 1206 (3216))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R8(R 1206 (3216))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RL1(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=RL2(RL_SPDT_10A)
+Add component (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=+5 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=D4 Pin=LCD-1
+Added Pin To Net: NetName=D3 Pin=LCD-2
+Added Pin To Net: NetName=NetLED 1_1 Pin=LED 1-1
+Added Pin To Net: NetName=+5 Pin=LED 1-2
+Added Pin To Net: NetName=NetLED 2_1 Pin=LED 2-1
+Added Pin To Net: NetName=+5 Pin=LED 2-2
+Added Pin To Net: NetName=V3.3 Pin=LoLin-1-3V3
+Added Pin To Net: NetName=V3.3 Pin=LoLin-1-3V3
+Added Pin To Net: NetName=V3.3 Pin=LoLin-1-3V3
+Added Pin To Net: NetName=A0 Pin=LoLin-1-A0
+Added Pin To Net: NetName=D3 Pin=LoLin-1-D3
+Added Pin To Net: NetName=D4 Pin=LoLin-1-D4
+Added Pin To Net: NetName=D5 Pin=LoLin-1-D5
+Added Pin To Net: NetName=D6 Pin=LoLin-1-D6
+Added Pin To Net: NetName=D7 Pin=LoLin-1-D7
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=GND Pin=LoLin-1-GND
+Added Pin To Net: NetName=+5 Pin=LoLin-1-VIN
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=NetP1_3 Pin=P1-3
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=V3.3 Pin=P_ADC-1
+Added Pin To Net: NetName=A0 Pin=P_ADC-2
+Added Pin To Net: NetName=GND Pin=P_ADC-3
+Added Pin To Net: NetName=V3.3 Pin=P_DHT-1
+Added Pin To Net: NetName=D7 Pin=P_DHT-2
+Added Pin To Net: NetName=GND Pin=P_DHT-3
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q2-3
+Added Pin To Net: NetName=NetLED 1_1 Pin=R3-1
+Added Pin To Net: NetName=NetD1_2 Pin=R3-2
+Added Pin To Net: NetName=D6 Pin=R4-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R4-2
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=NetLED 2_1 Pin=R6-1
+Added Pin To Net: NetName=NetD2_2 Pin=R6-2
+Added Pin To Net: NetName=D5 Pin=R7-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R7-2
+Added Pin To Net: NetName=NetQ2_1 Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=NetP1_2 Pin=RL1-1
+Added Pin To Net: NetName=NetP1_3 Pin=RL1-2
+Added Pin To Net: NetName=NetP1_1 Pin=RL1-3
+Added Pin To Net: NetName=NetD1_2 Pin=RL1-4
+Added Pin To Net: NetName=+5 Pin=RL1-5
+Added Pin To Net: NetName=NetP2_2 Pin=RL2-1
+Added Pin To Net: NetName=NetP2_3 Pin=RL2-2
+Added Pin To Net: NetName=NetP2_1 Pin=RL2-3
+Added Pin To Net: NetName=NetD2_2 Pin=RL2-4
+Added Pin To Net: NetName=+5 Pin=RL2-5
+Added Member To Class: ClassName=Smart_Home Member=Component D1 Diode
+Added Member To Class: ClassName=Smart_Home Member=Component D2 Diode
+Added Member To Class: ClassName=Smart_Home Member=Component LED 1 Led
+Added Member To Class: ClassName=Smart_Home Member=Component LED 2 Led
+Added Member To Class: ClassName=Smart_Home Member=Component LoLin-1 NodeMCU V3
+Added Member To Class: ClassName=Smart_Home Member=Component P1 Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component P2 Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component P_ADC Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component P_DHT Header 3
+Added Member To Class: ClassName=Smart_Home Member=Component Q1 Transistor NPN
+Added Member To Class: ClassName=Smart_Home Member=Component Q2 Transistor NPN
+Added Member To Class: ClassName=Smart_Home Member=Component R3 R
+Added Member To Class: ClassName=Smart_Home Member=Component R4 R
+Added Member To Class: ClassName=Smart_Home Member=Component R5 R
+Added Member To Class: ClassName=Smart_Home Member=Component R6 R
+Added Member To Class: ClassName=Smart_Home Member=Component R7 R
+Added Member To Class: ClassName=Smart_Home Member=Component R8 R
+Added Member To Class: ClassName=Smart_Home Member=Component RL1 Relay 10A/12V
+Added Member To Class: ClassName=Smart_Home Member=Component RL2 Relay 10A/12V

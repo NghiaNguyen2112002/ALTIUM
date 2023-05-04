@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SOIL_0 Pin=SOIL-1
+Removed Pin From Net: NetName=SOIL_1 Pin=SOIL-2
+Change Component Designator: OldDesignator=DHT NewDesignator=P0
+Change Component Designator: OldDesignator=SOIL NewDesignator=P7
+Added Pin To Net: NetName=SOIL_1 Pin=P7-1
+Added Pin To Net: NetName=SOIL_0 Pin=P7-2

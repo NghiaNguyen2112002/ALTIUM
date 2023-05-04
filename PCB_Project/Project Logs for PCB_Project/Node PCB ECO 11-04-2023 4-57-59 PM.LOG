@@ -1,0 +1,81 @@
+Added Component: Designator=CON0(Arduino Nano 15x2)
+Added Component: Designator=CON1(CONN/DC/PWR/5.0MM)
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P0(XH2.54-3P)
+Added Component: Designator=P1(Header 7)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(Header 4)
+Added Component: Designator=P3(Header 4)
+Added Component: Designator=P4(SH152-5.08-3P)
+Added Component: Designator=P5(HDR DOMINO 4)
+Added Component: Designator=R0(R 0805 (2012))
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DHT Pin=CON0-7
+Added Pin To Net: NetName=DHT Pin=P0-2
+Added Pin To Net: NetName=DHT Pin=R0-1
+Added Net: Name=DHT
+Added Pin To Net: NetName=LORA_AUX Pin=P1-3
+Added Net: Name=LORA_AUX
+Added Pin To Net: NetName=LORA_GND Pin=CON0-27
+Added Pin To Net: NetName=LORA_GND Pin=P0-1
+Added Pin To Net: NetName=LORA_GND Pin=P1-1
+Added Pin To Net: NetName=LORA_GND Pin=P2-1
+Added Pin To Net: NetName=LORA_GND Pin=P3-1
+Added Pin To Net: NetName=LORA_GND Pin=R0-2
+Added Net: Name=LORA_GND
+Added Pin To Net: NetName=LORA_M0 Pin=CON0-11
+Added Pin To Net: NetName=LORA_M0 Pin=P1-7
+Added Net: Name=LORA_M0
+Added Pin To Net: NetName=LORA_M1 Pin=CON0-10
+Added Pin To Net: NetName=LORA_M1 Pin=P1-6
+Added Net: Name=LORA_M1
+Added Pin To Net: NetName=LORA_RX Pin=CON0-9
+Added Pin To Net: NetName=LORA_RX Pin=P1-5
+Added Net: Name=LORA_RX
+Added Pin To Net: NetName=LORA_TX Pin=CON0-8
+Added Pin To Net: NetName=LORA_TX Pin=P1-4
+Added Net: Name=LORA_TX
+Added Pin To Net: NetName=LORA_VCC Pin=CON0-4
+Added Pin To Net: NetName=LORA_VCC Pin=P0-3
+Added Pin To Net: NetName=LORA_VCC Pin=P1-2
+Added Pin To Net: NetName=LORA_VCC Pin=P2-2
+Added Pin To Net: NetName=LORA_VCC Pin=P3-4
+Added Net: Name=LORA_VCC
+Added Pin To Net: NetName=NPK_RX Pin=CON0-13
+Added Pin To Net: NetName=NPK_RX Pin=P3-3
+Added Net: Name=NPK_RX
+Added Pin To Net: NetName=NPK_TX Pin=CON0-12
+Added Pin To Net: NetName=NPK_TX Pin=P3-2
+Added Net: Name=NPK_TX
+Added Pin To Net: NetName=RS485_A Pin=P4-1
+Added Pin To Net: NetName=RS485_A Pin=P5-2
+Added Net: Name=RS485_A
+Added Pin To Net: NetName=RS485_B Pin=P4-2
+Added Pin To Net: NetName=RS485_B Pin=P5-3
+Added Net: Name=RS485_B
+Added Pin To Net: NetName=RS485_GND Pin=CON1-2
+Added Pin To Net: NetName=RS485_GND Pin=CON1-3
+Added Pin To Net: NetName=RS485_GND Pin=P4-3
+Added Pin To Net: NetName=RS485_GND Pin=P5-4
+Added Net: Name=RS485_GND
+Added Pin To Net: NetName=RS485_VCC Pin=CON1-1
+Added Pin To Net: NetName=RS485_VCC Pin=P5-1
+Added Net: Name=RS485_VCC
+Added Pin To Net: NetName=SOIL_A0 Pin=CON0-19
+Added Pin To Net: NetName=SOIL_A0 Pin=P2-4
+Added Net: Name=SOIL_A0
+Added Pin To Net: NetName=SOIL_D0 Pin=P2-3
+Added Net: Name=SOIL_D0
+Added Class: Name=Node
+Added Room: Name=Node

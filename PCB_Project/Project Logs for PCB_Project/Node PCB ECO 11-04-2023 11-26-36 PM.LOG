@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=12V NewDesignator=CON1
+Change Component Designator: OldDesignator=NANO NewDesignator=CON0
+Added Pin To Net: NetName=LORA_GND Pin=CON0-29

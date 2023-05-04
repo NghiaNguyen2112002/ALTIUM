@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=LORA_GND Pin=P1-1
+Removed Pin From Net: NetName=LORA_VCC Pin=P1-2
+Added Pin To Net: NetName=LORA_VCC Pin=P1-1
+Added Pin To Net: NetName=LORA_GND Pin=P1-2
+Change Net Name : Old Net Name=LORA_GND New Net Name=LORA_VCC
+Change Net Name : Old Net Name=LORA_VCC New Net Name=LORA_GND
+Added Room: Name=Node
